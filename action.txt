@@ -1,0 +1,22 @@
+đi thẳng       
+đi lùi
+đi qua trái không xoay
+đi qua phải không xoay
+xoay qua phải
+xoay qua trái
+dừng
+đi thẳng nghiêng phải
+đi thẳng nghiêng trái
+đi lùi nghiêng phải
+đi lùi nghiêng trái
+đi chéo xuống phải
+đi chéo xuống trái
+đi chéo lên phải
+đi chéo lên trái
+
+
+open
+punch
+pointer
+hi
+gun 
